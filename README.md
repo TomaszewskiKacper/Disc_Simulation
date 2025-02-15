@@ -1,6 +1,5 @@
 # Disc_Simulation
 Simulation of N-discs in a 2D space
 
-
-https://github.com/user-attachments/assets/397d5b7c-7217-4842-9743-1b6e324817eb
+https://github.com/user-attachments/assets/2a38b7d0-0c96-4fad-89f9-dfcd6fa0befe
 
